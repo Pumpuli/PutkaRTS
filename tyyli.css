@@ -1,0 +1,23 @@
+body
+{
+	margin: 0;
+	padding: .5em 2em;
+	font-family: Trebuchet MS, Verdana, sans-serif;
+}
+
+h1
+{
+	font-variant: small-caps;
+	text-align: center;
+	text-shadow: #554400 1px 1px 2px;
+}
+
+a
+{
+	color: #BB0000;
+}
+
+a:hover
+{
+	color: #FF6600;
+}
